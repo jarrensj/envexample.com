@@ -11,7 +11,7 @@ export default function Home() {
         <EnvExample />
       </main>
       <footer className="row-start-3 flex gap-6 flex-wrap items-center justify-center">
-        <p className="text-sm text-muted-foreground">Disclaimer: This is a simple tool made for my personal use. We are not responsible for your API Secret Keys or any other sensitive information. This is the <Link href="https://github.com/jarrensj/env-example-generator" className="text-blue-400 hover:text-blue-600">GitHub repository.</Link></p>
+        <p className="text-sm text-muted-foreground">Disclaimer: This is a simple tool made for my personal use. We are not responsible for your API Secret Keys or any other sensitive information. This is the <Link href="https://github.com/jarrensj/env-example-generator" className="text-blue-400 hover:text-blue-600">GitHub repository</Link>.</p>
       </footer>
     </div>
   );
