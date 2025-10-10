@@ -78,7 +78,7 @@ export default function EnvExample() {
         </CardHeader>
         <CardContent className="space-y-4">
           <Textarea
-            placeholder="Paste your .env content here..."
+            placeholder="Paste your .env content here…"
             value={input}
             onChange={(e) => setInput(e.target.value)}
             className="min-h-[200px]"
